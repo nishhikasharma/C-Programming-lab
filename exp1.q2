@@ -1,7 +1,8 @@
 #include <stdio.h>
 int main(){
-    printf("Tilak Marg, New Delhi, Delhi,");
-    printf("110001, India");
-    printf(",Established	1 October 1937");
+    printf("123 new street\n");
+    printf("apt 3B \n");
+    printf("silicon valley\n");
+    printf("CA 96300\n");
     return 0;
 }
